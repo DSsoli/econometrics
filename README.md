@@ -1,3 +1,3 @@
-## Side Materials for Econometrics Lecture by DSsoli
-- All materials excluding referables: COPYRIGHT © DSsoli(SH), All Rights Reserved.
+## For SnB Econometrics Lecture hosted by DSsoli (2020)
+- All materials excluding referables made by DSsoli.
 - Contact: solisoli3197@gmail.com
